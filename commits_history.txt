@@ -1,0 +1,16 @@
+ 1001  git clone
+ 1002  git clone https://github.com/anshahinyan/hello-
+ 1003  git config --global user.name Ani
+ 1004  git config --global user.email anishahinyan78@gmail.com
+ 1005  cd hello-
+ 1006  ls -la
+ 1007  git status
+ 1008  vim first_file.txt
+ 1009  cat first_file.txt
+ 1010  git status
+ 1011  git add first_file.txt
+ 1012  git status
+ 1013  git commit -m "please work"
+ 1014  git status
+ 1015  git push origin main
+ 1016  history
